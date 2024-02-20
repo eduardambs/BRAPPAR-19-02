@@ -1,0 +1,20 @@
+Objetos -> quando colocamos que o atributo é privado, estamos protegendo (encapsulando) o objeto. 
+é necessário ter uma classe publica, para poder manipular o objeto.
+
+Métodos -> quando criar o tipo, é obrigatório usar o return
+
+para cada posição eu dou o tipo/nome, para cada variável que está chegando tem que definir um tipo. 
+
+argumento mando
+parâmetro recebo 
+
+
+--- Métodos Acessores (get) Mutantes (set) ---
+static é uma manipulação de classe
+o construtor não tem retorno
+
+assinatura do método -> visibilidade retorno nome (parametros) -> tipo/nome
+public int soma (int a, int b) assinatura 
+{
+	definição do corpo, independente se tiver algo ou não, pode também ser um corpo vazio
+}
